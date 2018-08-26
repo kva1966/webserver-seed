@@ -1,0 +1,17 @@
+{
+  "name": "webserver-seed",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [
+    "seed",
+    "prototyping"
+  ],
+  "author": "Chupa Cabra",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
